@@ -295,8 +295,8 @@ img {
     transition: background-color var(--animation), border-color var(--animation);
 }
 
-.modal-close-button:hover,
-.modal-close-button:focus {
+.model-close-button:hover,
+.model-close-button:focus {
     background-color: var(--secondary-color);
     border-color: transparent;
 }
