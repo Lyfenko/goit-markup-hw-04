@@ -306,8 +306,8 @@ img {
     transition: fill var(--animation);
 }
 
-.modal-close-button:hover .modal-close-icon,
-.modal-close-button:focus .modal-close-icon {
+.model-close-button:hover .modal-close-icon,
+.model-close-button:focus .modal-close-icon {
     fill: var(--white);
 }
 
